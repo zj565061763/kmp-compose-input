@@ -7,5 +7,5 @@ Compose Multiplatform input library.
 # Gradle
 
 ```kotlin
-implementation("io.github.zj565061763.kmp:compose-input:version")
+implementation("io.github.zj565061763.kmp:compose-input:1.0.0")
 ```
